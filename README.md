@@ -258,19 +258,42 @@ Para Desenvolvedores:
 
 
 
+
 ## 5. Ferramentas do Sistema
 ---
 
-Autor: [Seu nome completo]
+Autor: [Gustavo Leite das Chagas]
 
-[Escreva a introdução]
-
+As ferramentas do sistema em diferentes sistemas operacionais, podem servir para modificar e gerir as utilidades e interfaces desses sistemas 
 ### 5.1. Gerenciador de Tarefas
 ---
+**o que são**:
+![imagem gerenciador de tarefas windows](https://tm.ibxk.com.br/2014/05/28/28122522198188.jpg?ims=fit-in/800x500)
+São ferramentas que permitem o usuário ver e gerenciar os processos ativos de um sistema operacional. Eles mostram informações como:
+-Uso da CPU, memória, disco e rede
+Importante para saber se há espaço disponível, velocidade da rede, e uso da cpu.
+-Programas e serviços em execução
+Ver se há algo indesejado em execução e o que é.
+-Capacidade de encerrar processos ou serviços
+Fechar o que não for mais usar.
+-Diagnóstico de desempenho do sistema
+Saber se há algo de errado e iinformações sobre o sistema
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+[chatgpt](https://chatgpt.com)
+
+
 
 ### 5.2. Prompt de Comando / Terminal
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+**geral sobre prompt e terminal**:
+![imagem prompt de comando](https://s2-techtudo.glbimg.com/XO7pHAlSttsDxljC8SkWdk2JPB0=/0x0:695x393/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/g/M/zoSmeaSUG1tnRcL5NLkg/2013-12-19-taskkill.png)
+Detalhes desses itens
+-É uma ferramenta que permite você ter total controle de tudo no computador através de texto. 
+-Amplamente utilizado por programadores e administradores.
+-Ele é útil para criação de sistemas e para acessar arquivos.
+-Ele tem uma navegação mais rapida e certeira do que por menus e janelas.
+-Dá acesso a comandos que podem não estar disponíveis em interfaces gráficas.
+-É muito mais preciso que interfaces gráficas, por conta da simplicidade visual.
+
+[gemini](https://gemini.google.com/)
