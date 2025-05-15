@@ -160,8 +160,10 @@ O Painel de Controles no Windows é uma ferramenta que pode ser vizualizada e al
 
 -**Função:**
 Uma ferramenta clássica do Windows para gerenciar configurações do sistema.
+
 -**Acesso:**
 Pode ser acessado através do menu Iniciar, pesquisando por "Painel de Controle" ou através do atalho do teclado Windows + R, digitando "control".
+
 -**Conteúdo:**
 Contém diversas seções para alterar configurações, como sistema, segurança, rede, programas, aparência, etc.
 
@@ -169,12 +171,12 @@ Contém diversas seções para alterar configurações, como sistema, segurança
 App de configuração é uma opção de controle moderna, que oferece um acesso mais simples e rápido.
 
 
-
-
 -**Função:**
 Uma interface mais moderna e simplificada para acessar configurações do Windows, que está gradualmente substituindo o Painel de Controle.
+
 -**Acesso:**
 Acesso fácil através do menu Iniciar ou, em algumas versões do Windows, clicando no ícone de engrenagem.
+
 -**Conteúdo:**
 Oferece acesso a configurações essenciais como rede, dispositivos, notificações, etc.
 
@@ -190,10 +192,13 @@ Dispositivos como Computadores as configurações de redes, sons, telas e idioma
 
 -**Rede:**
 Conexões Wi-Fi, dados móveis, roteamento, e configuração de redes específicas.
+
 -**Som:**
 Volumes de notificações, músicas, chamadas, etc., e configuração de equalizadores de som.
+
 -**Tela:**
 Brilho, contraste, tempo de espera, modo noturno, e personalização do tema de cores.
+
 -**Idioma:**
 Definição do idioma do sistema, do teclado, e da conversão de texto em voz.
 
@@ -203,10 +208,13 @@ Definição do idioma do sistema, do teclado, e da conversão de texto em voz.
 
 -**Rede:**
 A configuração de rede permite conectar-se a redes Wi-Fi, ativar e desativar dados móveis, e configurar redes específicas, como VPNs ou redes locais.
+
 -**Som:**
 As configurações de som permitem controlar o volume de diferentes tipos de som, ativar ou desativar sons de notificações, e personalizar a experiência de áudio com equalizadores ou filtros.
+
 -**Tela:**
 As configurações de tela permitem ajustar o brilho, contraste e temperatura da tela, definir o tempo de espera para o desligamento automático, ativar o modo noturno e personalizá-lo com temas de cores diferentes.
+
 -**Idioma:**
 As configurações de idioma permitem definir o idioma do sistema, do teclado, e da conversão de texto em voz. Você pode também adicionar ou remover idiomas, ou personalizar a entrada de texto.
 
@@ -235,19 +243,23 @@ As funções de Acesibilidade são essenciais para pessoas que possui algum tipo
 Leitores de tela: Convertem texto em fala ou braille.
 Lupas de tela: Ampliam o conteúdo.
 Filtros de cor/Alto contraste: Melhoram a distinção visual.
+
 -**Para Audição:**
 Legendas (Closed Captions): Texto sincronizado com áudio.
 Transcrições: Versões textuais de áudio.
 Alertas visuais: Substituem alertas sonoros.
+
 -**Para Mobilidade/Destreza:**
 Teclados virtuais/de tela: Digitação alternativa.
 Reconhecimento de voz: Controle por comandos de voz.
 Teclas de aderência/filtro: Facilitam o uso do teclado.
 Mouses/trackballs adaptados: Controle alternativo do cursor.
+
 -**Para Cognição:**
 Leitores de tela (com foco na clareza).
 Ferramentas de simplificação de texto.
 Software de organização e planejamento.
+
 -Para Desenvolvedores:
 
 
