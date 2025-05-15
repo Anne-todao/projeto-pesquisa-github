@@ -21,21 +21,40 @@ Autor: [Seu nome completo]
 
 
 ## 2. Sistemas de Arquivos
----
 
-Autor: [Seu nome completo]
+Autor: José Marco G. Neves
 
-[Escreva a introdução]
+Um sistema de arquivos é um sistema operacional que organiza, armazena e acessa os dados de um dispositivo como pen drive, disco rígido ou SSD. Essa estrutura é fundamental para que se torne possível a organização e o acesso aos seus dados digitais. Ela é usada para: **a estrutura de pastas no seu computador; salvar um novo arquivo; abrir um arquivo existente; um pen drive; o sistema de arquivos do seu smartphone.** Os sistemas de arquivos são a espinha dorsal da organização de dados em dispositivos de armazenamento, atuando como bibliotecários digitais para nossos arquivos. Eles transcendem a mera alocação de espaço em disco, estabelecendo uma estrutura lógica que define como os dados são armazenados, acessados e gerenciados. Essa abstração crucial permite que usuários e aplicativos interajam com os dados de forma intuitiva, sem se preocuparem com as complexidades do hardware subjacente. Os sistemas de arquivos organizam dados no armazenamento. Essa estrutura lógica define acesso e gerenciamento intuitivo. Diferentes tipos, como NTFS e ext4, atendem a usos variados. Entender seus princípios é crucial para computação eficaz.
 
 ### 2.1. O que é um sistema de arquivos?
----
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Um sistema de arquivos é a espinha dorsal de como um sistema operacional organiza, armazena e acessa os dados em um dispositivo de armazenamento, como um disco rígido, SSD ou pen drive. Sem um sistema de arquivos, todos os seus dados seriam apenas uma massa desorganizada, sem nenhuma maneira de identificar onde um arquivo começa e outro termina.
+
+**Pontos importantes sobre o sistema de arquivos:**
+
+**Organização:** Ele cria uma estrutura lógica, geralmente hierárquica (como uma árvore com pastas e subpastas), para que você possa encontrar seus arquivos facilmente.
+**Nomeação:** Permite que você dê nomes significativos aos seus arquivos e pastas, facilitando a identificação do conteúdo.
+**Localização:** Mantém o controle de onde cada pedaço de informação está fisicamente armazenado no dispositivo.
+**Acesso:** Define as regras de como os arquivos podem ser lidos, gravados, modificados e excluídos.
+**Metadados:** Armazena informações adicionais sobre os arquivos, como data de criação, data de modificação, tamanho e permissões de acesso.
+**Integridade:** Alguns sistemas de arquivos incluem mecanismos para garantir a integridade dos dados e se recuperar de falhas.
+**Gerenciamento de espaço:** Controla o espaço disponível no dispositivo de armazenamento e como ele é alocado para novos arquivos.
+
+![Sis. de arquivos](https://filestore.community.support.microsoft.com/api/images/192be32e-a16c-47dd-85e0-9083e7700b6d)
 
 ### 2.2. Tipos de sistemas de arquivos: FAT32, NTFS, ext4
----
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+**NTFS:** Usado principalmente em sistemas Windows modernos.
+**ext4:** Um sistema de arquivos amplamente utilizado em distribuições Linux.
+**FAT32:** Um sistema mais antigo, ainda usado em alguns dispositivos de armazenamento removíveis devido à sua ampla compatibilidade.
+
+![Tipos de sis.](https://e-tinet.com/wp-content/uploads/2017/06/Conheca-os-melhores-sistemas-operacionais-do-mercado-2-1024x536.gif)
+
+**Sites usados para a pesquisa:**
+([Sis. de arquivos](https://phoenixnap.pt/gloss%C3%A1rio/sistema-de-arquivo))
+([Sis. de arquivos](https://pt.wikipedia.org/wiki/Sistema_de_ficheiros))
+([Sis. de arquivos](https://computerhelpinformatica.com.br/entenda-as-diferencas-ntfs-fat32-e-exfat/))
+[Tipos de sis.](https://www.kingston.com/br/blog/personal-storage/understanding-file-systems#:~:text=Ext4%20(Quarto%20Sistema%20de%20Arquivo%20Estendido)&Ext4%20%C3%A9%20o%20sistema%20de,pela%20primeira%20vez%20em%202003.)
 
 
 
