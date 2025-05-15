@@ -1,73 +1,23 @@
-
 # Pesquisa Colaborativa - Github
 
-Grupo: [HAGMA]
+Grupo: [Nome do seu grupo]
 
 ## 1. Funções de um Sistema Operacional
 ---
 
-Autor: [Ana Giulia de Pauli Domingues]
+Autor: [Seu nome completo]
 
-[Um sistema operacional (SO) tem a função de servir como intermediário entre o hardware e o software, fornecendo uma interface para o usuário e gerindo recursos de forma eficiente. Ele coordena a execução de programas, aloca memória, controla entrada e saída de dados e organiza arquivos, garantindo a funcionalidade e estabilidade do sistema.]
-**Principais funções de um Sistema Operacional**
- - Gerenciamento de processos;
- - Gerenciamento de memória;
- - Gerenciamneto de recursos;
- - Entrada e saída de dados;
- - Sistema de arquivos; 
- - Interface do usuário; 
- - segurança;
- - Gerenciamento de hardware.
-
- **Nome do site** 
- [Site de pesquisa](https://www.dcce.ibilce.unesp.br/~aleardo/cursos/fsc/cap11.php)
-
- **Nome da imagem**
-![Sistema Operacional](https://growthcode.com.br/wp-content/uploads/2023/10/image.png)
+[Escreva a introdução]
 
 ### 1.1. Gerenciamento de processos
 ---
 
-[O gerenciamento de processos em um sistema operacional envolve a criação, organização, execução, agendamento e terminação de processos, além da gestão de recursos como memória e processador. O sistema operacional mantém informações sobre cada processo, incluindo seu estado, prioridade e recursos alocados, para controlar o acesso aos recursos e garantir o funcionamento eficiente do sistema.]
-**Detalhes do Gerenciamento de Processos**
-- Criação e Terminação:
-- Agendamento; 
-- Contexto;
-- Estado;
-- Comunicação e Sincronização;
-- Gerenciamento de recursos;
-- Estrutura de dados;
-- Mudança de Contexto;
-
-**Nome do site**
-[Site de pesquisa](https://blog.grancursosonline.com.br/sistemas-operacionais-gerenciamento-de-processos/#:~:text=Uma%20vez%20criados%2C%20os%20processos,est%C3%A3o%20atualmente%20utilizando%20o%20CPU.)
-
-**Nome da imagem**
-![Gerenciamento de processos](https://deinfo.uepg.br/~alunoso/2020/SO/EscalonamentocomPrioridades/EscalonamentoPrioridades_arquivos/image002.jpg)
-
+[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 ### 1.2. Gerenciamento de arquivos
-
-O gerenciamento de arquivos em um sistema operacional envolve diversas funcionalidades que permitem ao usuário e aos programas interagir com os dados armazenados de forma organizada e segura. O sistema operacional, por meio de um sistema de arquivos, cria uma estrutura hierárquica para armazenar arquivos e diretórios, permitindo criar, ler, gravar e apagar dados de forma controlada. 
 ---
 
-[O gerenciamento de arquivos em um sistema operacional envolve diversas funcionalidades que permitem ao usuário e aos programas interagir com os dados armazenados de forma organizada e segura. O sistema operacional, por meio de um sistema de arquivos, cria uma estrutura hierárquica para armazenar arquivos e diretórios, permitindo criar, ler, gravar e apagar dados de forma controlada.]
-**Funções principais do gerenciamento de arquivos**
-- Proteção;
-- mapeamento de nomes;
-- Endereçamento;
-- Segurança;
-- Contabilidade.
-
-**Nome do site**
-[Site de pesquisa](https://www.dcce.ibilce.unesp.br/~aleardo/cursos/fsc/cap11.php)
-
-**Nome da imagem**
-![Gerenciamento de arquivos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Gwc3oNrqWRYeoMFHeVLYPQrU1B5rPxeoyg&s)
-
-
-
-
+[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 
 ## 2. Sistemas de Arquivos
